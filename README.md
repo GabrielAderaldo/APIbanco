@@ -3,7 +3,8 @@
 - [Pagina Principal](http://bancoapiselecao-net.umbler.net/home)
 - - [Autenticação/Login](http://bancoapiselecao-net.umbler.net/auth/login) 
 - - [Autenticação/Registro](http://bancoapiselecao-net.umbler.net/auth/register) 
-
+- [Usuario/Listagem](http://bancoapiselecao-net.umbler.net/user/)
+- [Usuario/postagem](http://bancoapiselecao-net.umbler.net/user/)
 # Rotas Autenticação: 
 ## Autenticação de login: Básicamente para usar é só mandar no body um json: 
 Json login - {
